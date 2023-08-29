@@ -1,0 +1,6 @@
+{
+    "name": "angel/reportes-pdf",
+    "require": {
+        "setasign/fpdf": "^1.8"
+    }
+}
